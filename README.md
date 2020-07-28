@@ -4,7 +4,7 @@
 <b> Dependencies </b> <br>
 <i>
 Djongo + MongoDB, djongo for MongoDB calls, 
-check requirements.txt file for more details <br> 
+check requirements.txt file for more details. <br> 
 APIView has been used for implementing REST functionalities. 
 </i> <br>
 
